@@ -1,0 +1,21 @@
+body{ background-color: rgb(240, 240, 240);
+
+}
+p{
+   color: rgb(255, 0, 0);
+}
+h1{
+    font-style: italic;
+    color: rgb(255, 0, 0);
+}
+.mor{
+    width: 50%;
+}
+.diva{
+    color: rgb(248, 2, 2);
+    font-style: italic;
+}
+.juro{
+    color: rgb(253, 0, 0);
+    font-style: italic;
+}
